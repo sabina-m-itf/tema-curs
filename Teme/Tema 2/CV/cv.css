@@ -64,7 +64,7 @@ pre.name {
 
 #boxPicTitle:hover {
     font-size: 30px; 
-    
+
 }
 
 
@@ -171,6 +171,8 @@ li {
     text-align: left;
     width: 100%;
     line-height: 2;
+    flex-wrap:wrap;
+    flex-direction: row;
 }
 
 
