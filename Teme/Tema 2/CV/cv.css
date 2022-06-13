@@ -150,6 +150,19 @@ li {
     line-height: 2;
 }
 
+.jobDescription {
+    color: black;
+    font-family: Tahoma;
+    justify-content: left;
+    width: 100%;
+    line-height: 2;
+}
+
+
+li {
+    width: 80%;
+}
+
 
 .studiesLevels {
     font-family: Tahoma;
