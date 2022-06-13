@@ -14,14 +14,12 @@
 #heading {
     width: 100%;
     text-align: left;
-    height: 100px;
 }
 
 
 #pozaCV {
     border-radius: 60%;
-    max-width: 60px;
-    margin-bottom: 40px;
+    max-width: 150px;
 }
 
 
@@ -172,6 +170,10 @@ li {
     width: 100%;
     line-height: 2;
     
+}
+
+.specialisation {
+    margin-left: 20px;
 }
 
 
