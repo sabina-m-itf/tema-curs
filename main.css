@@ -5,5 +5,7 @@ div :hover {
 
 a {
     text-decoration: none;
+    text-decoration-style: solid;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(245, 238, 238);
 }
