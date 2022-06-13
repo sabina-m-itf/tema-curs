@@ -1,3 +1,9 @@
-h1{
-    color: rgb(231, 189, 235);
+div :hover {
+    background-color: rgb(143, 129, 127);
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
